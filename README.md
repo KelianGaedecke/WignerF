@@ -10,4 +10,5 @@ The Wigner function is a quasi-probability distribution function that provides a
 ## Possible improvement
 
 (1) Addition of the MC integration to be able to deal with higher dimensions
+
 (2) Implementation of the higher dimension Wigner function
